@@ -1,0 +1,17 @@
+{
+  "name": "akreet-http-util",
+  "homepage": "https://github.com/akreet/akreet-http-util",
+  "authors": [
+    "admin@akreet.net"
+  ],
+  "description": "",
+  "main": "http-util.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
